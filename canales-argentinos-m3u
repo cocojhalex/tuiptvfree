@@ -1,0 +1,52 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="TELEFE" tvg-logo="" group-title="ARGENTINA",TELEFE
+http://51.222.25.50:25461/BULLN3W/c3xmQXEyqf/1133
+#EXTINF:-1 tvg-id="" tvg-name="24H NOTICIAS" tvg-logo="" group-title="ARGENTINA",24H NOTICIAS
+http://51.222.25.50:25461/BULLN3W/c3xmQXEyqf/2992
+#EXTINF:-1 tvg-id="" tvg-name="5RTV SANTA FE" tvg-logo="" group-title="ARGENTINA",5RTV SANTA FE
+http://51.222.25.50:25461/BULLN3W/c3xmQXEyqf/2993
+#EXTINF:-1 tvg-id="" tvg-name="5TV CORRIENTES" tvg-logo="" group-title="ARGENTINA",5TV CORRIENTES
+http://51.222.25.50:25461/BULLN3W/c3xmQXEyqf/2994
+#EXTINF:-1 tvg-id="" tvg-name="9 MULTIVISION" tvg-logo="" group-title="ARGENTINA",9 MULTIVISION
+http://51.222.25.50:25461/BULLN3W/c3xmQXEyqf/2995
+#EXTINF:-1 tvg-id="" tvg-name="ARGENTINIZIMA SATELITAL" tvg-logo="" group-title="ARGENTINA",ARGENTINIZIMA SATELITAL
+http://51.222.25.50:25461/BULLN3W/c3xmQXEyqf/2997
+#EXTINF:-1 tvg-id="" tvg-name="CANAL 10 GENERAL ROCA" tvg-logo="" group-title="ARGENTINA",CANAL 10 GENERAL ROCA
+http://51.222.25.50:25461/BULLN3W/c3xmQXEyqf/2999
+#EXTINF:-1 tvg-id="" tvg-name="CANAL 26" tvg-logo="" group-title="ARGENTINA",CANAL 26
+http://51.222.25.50:25461/BULLN3W/c3xmQXEyqf/3000
+#EXTINF:-1 tvg-id="" tvg-name="CHACRA TV" tvg-logo="" group-title="ARGENTINA",CHACRA TV
+http://51.222.25.50:25461/BULLN3W/c3xmQXEyqf/3001
+#EXTINF:-1 tvg-id="" tvg-name="CIUDAD TV CHACO" tvg-logo="" group-title="ARGENTINA",CIUDAD TV CHACO
+http://51.222.25.50:25461/BULLN3W/c3xmQXEyqf/3002
+#EXTINF:-1 tvg-id="" tvg-name="FENIX TV" tvg-logo="" group-title="ARGENTINA",FENIX TV
+http://51.222.25.50:25461/BULLN3W/c3xmQXEyqf/3004
+#EXTINF:-1 tvg-id="" tvg-name="TLX" tvg-logo="" group-title="ARGENTINA",TLX
+http://51.222.25.50:25461/BULLN3W/c3xmQXEyqf/3008
+#EXTINF:-1 tvg-id="" tvg-name="PAKA PAKA" tvg-logo="" group-title="ARGENTINA",PAKA PAKA
+http://51.222.25.50:25461/BULLN3W/c3xmQXEyqf/3221
+#EXTINF:-1 tvg-id="" tvg-name="TELEMAX" tvg-logo="" group-title="ARGENTINA",TELEMAX
+http://51.222.25.50:25461/BULLN3W/c3xmQXEyqf/3772
+#EXTINF:-1 tvg-id="" tvg-name="Telpin Canal 2 " tvg-logo="" group-title="ARGENTINA",Telpin Canal 2 
+http://51.222.25.50:25461/BULLN3W/c3xmQXEyqf/3775
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 1" tvg-logo="" group-title="DEPORTE LATINO",ESPN 1 ARG
+http://51.222.25.50:25461/BULLN3W/c3xmQXEyqf/3034
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 " tvg-logo="" group-title="DEPORTE LATINO",ESPN 2 ARG
+http://51.222.25.50:25461/BULLN3W/c3xmQXEyqf/3035
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 3" tvg-logo="" group-title="DEPORTE LATINO",ESPN 3 ARG
+http://51.222.25.50:25461/BULLN3W/c3xmQXEyqf/3036
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 4" tvg-logo="" group-title="DEPORTE LATINO",ESPN 4 ARG
+http://51.222.25.50:25461/BULLN3W/c3xmQXEyqf/3037
+#EXTINF:-1 tvg-id="" tvg-name="Fox sports 1" tvg-logo="" group-title="DEPORTE LATINO",Fox sports 1 ARG
+http://51.222.25.50:25461/BULLN3W/c3xmQXEyqf/3038
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 2 " tvg-logo="" group-title="DEPORTE LATINO",Fox Sports 2 ARG
+http://51.222.25.50:25461/BULLN3W/c3xmQXEyqf/3039
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 3" tvg-logo="" group-title="DEPORTE LATINO",Fox Sports 3 ARG
+http://51.222.25.50:25461/BULLN3W/c3xmQXEyqf/3040
+#EXTINF:-1 tvg-id="" tvg-name="DIRECTV SPORT 1" tvg-logo="" group-title="DEPORTE LATINO",DIRECTV SPORT 1
+http://51.222.25.50:25461/BULLN3W/c3xmQXEyqf/3281
+#EXTINF:-1 tvg-id="" tvg-name="DIREC TV PLUS" tvg-logo="" group-title="DEPORTE LATINO",DIREC TV PLUS
+http://51.222.25.50:25461/BULLN3W/c3xmQXEyqf/1046
+#EXTINF:-1 tvg-id="" tvg-name="DIRECTV SPORTS 2" tvg-logo="" group-title="DEPORTE LATINO",DIRECTV SPORTS 2
+http://51.222.25.50:25461/BULLN3W/c3xmQXEyqf/1048
